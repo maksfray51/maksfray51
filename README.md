@@ -15,7 +15,7 @@ I have a technical background in Russian Technological University MIREA in the f
 🌱 I’m currently learning Data Analytics, Data Science, BI
 
 
-↪️✌️ [CV](https://drive.google.com/file/d/1VChGPzXfyDxkCwpfdO0-cHmeJJ-vSfIj/view?usp=sharing
+↪️✌️ [CV](https://drive.google.com/file/d/1VChGPzXfyDxkCwpfdO0-cHmeJJ-vSfIj/view?usp=sharing)
 
 
 
