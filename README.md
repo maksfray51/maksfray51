@@ -7,7 +7,7 @@ I have a technical background in Russian Technological University MIREA in the f
 **Tech Stack:**<br>
 - Python: Pandas, Numpy, Seaborn, Matplotlib and SciKit-Learn
 - Visualisation: Tableau
-- DB: PostreSQL
+- SQL Dialect: PostreSQL, Clickhouse
 - JIRA, Confluence, Slack
 
 
